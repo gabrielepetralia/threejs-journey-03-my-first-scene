@@ -2,7 +2,7 @@
 
 This is my first project using Three.js, a powerful 3D library for JavaScript. 
 
-In this project, I created a simple 3D scene that includes a cube and a perspective camera.
+In this project, I created a simple **3D scene** that includes a **cube** and a **perspective camera**.
 
 ## Prerequisites
 
